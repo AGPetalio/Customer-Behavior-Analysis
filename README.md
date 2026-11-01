@@ -1,3 +1,4 @@
+## Customer Behavior Data Analyst Portfolio Project
 ### Data Analytics Project: Cleaning, EDA, SQL Analysis & Power BI Dashboard
 
 This repository showcases an end-to-end data analytics project, covering everything from initial data cleaning to advanced SQL analysis and interactive dashboard creation. 
