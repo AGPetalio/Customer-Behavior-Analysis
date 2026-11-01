@@ -11,19 +11,6 @@ The core datasets and project guidelines used in this analysis were sourced from
 * **Data Analysis & Querying:** PostgreSQL
 * **Data Visualization:** Power BI
 
-### 📁 Repository Structure
-
-├── data/
-│   └── sample_data.csv         # Small sample subset of the processed data
-├── notebooks/
-│   └── data_cleaning_eda.ipynb # Jupyter Notebook containing cleaning and EDA steps
-├── sql/
-│   ├── schema.sql              # Database schema definitions and table creation
-│   └── analysis_queries.sql    # PostgreSQL queries used for deep-dive analysis
-├── dashboard/
-│   └── dashboard.pbix          # Power BI file (or screenshots/PDF export)
-└── README.md                   # Project documentation
-
 ### 🚀 Project Workflow & Activities
 
 ### 1. Data Cleaning & Exploratory Data Analysis (EDA)
