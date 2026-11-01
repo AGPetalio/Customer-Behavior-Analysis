@@ -13,8 +13,6 @@ The core datasets and project guidelines used in this analysis were sourced from
 
 ### 📁 Repository Structure
 
-text
-
 ├── data/
 │   └── sample_data.csv         # Small sample subset of the processed data
 ├── notebooks/
@@ -25,8 +23,6 @@ text
 ├── dashboard/
 │   └── dashboard.pbix          # Power BI file (or screenshots/PDF export)
 └── README.md                   # Project documentation
-
-Use code with caution.
 
 ### 🚀 Project Workflow & Activities
 
@@ -56,8 +52,9 @@ To bring the data to life, a dynamic, interactive **Power BI Dashboard** was eng
 
 ### 📊 Key Insights Discovered
 
-* **Insight 1:** [Add a major takeaway from your SQL or Power BI analysis]
-* **Insight 2:** [Add another interesting pattern or trend you found]
+* **Insight 1:** Learned to import and use SQL databases in a sequence with python with the possibility to create automated report and dashboards.
+* **Insight 2:** I found that dashboards really should answer stakeholder's or sponsor's concerns. It would be preferred to have a simple but actionable dashboard.
+* **Insight 3:** More practice to enable automations soon.
 
 ### 🔑 Acknowledgments
 
